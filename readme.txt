@@ -1,3 +1,2 @@
-Git
-Creating a new branch is quick and simple.
-ok
+Learning git again
+2020.5.1
